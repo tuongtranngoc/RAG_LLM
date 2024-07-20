@@ -1,2 +1,2 @@
 # RAG_LLM
-The project aim to learn RAG techniques
+The project aims to learn RAG techniques
